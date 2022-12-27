@@ -1,2 +1,2 @@
-# Stock_Price
-[개인R&amp;D] 주가 예측
+# stock_price
+LSTM을 활용한 코카콜라 주가 예측
